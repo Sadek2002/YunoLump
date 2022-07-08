@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu's/mainmenu.unity
+    guid: bb09852d932ab5045b9a6715b7e2facc
+  - enabled: 1
+    path: Assets/Scenes/Menu's/registermenu.unity
+    guid: 38a86d193ae4fd7459097959b24c07d0
+  - enabled: 1
+    path: Assets/Scenes/Menu's/loginmenu.unity
+    guid: abf27c5a78a28ea4cb20e785f36ce3c7
+  - enabled: 1
+    path: Assets/Scenes/Menu's/menu.unity
+    guid: 36541adf558ceb542ad78a0cacc5eeb4
+  - enabled: 1
+    path: Assets/Scenes/Menu's/shopmenu.unity
+    guid: cda498eab04b63c4e8360bbb1409f3a5
+  - enabled: 1
+    path: Assets/Scenes/Menu's/levelselection.unity
+    guid: 205b119fb33781a49a9a417e4d4e71da
+  - enabled: 1
+    path: Assets/Scenes/Levels/level1.unity
+    guid: ff2d8e4fa2f299e448f05d77f9d06c82
+  - enabled: 1
+    path: Assets/Scenes/Levels/level2.unity
+    guid: 03585eb141e3a4b4297b993167fbdd18
+  - enabled: 1
+    path: Assets/Scenes/Levels/level3.unity
+    guid: fcb5fe350bbd4bc4c8c782262127d4da
+  - enabled: 1
+    path: Assets/Scenes/Levels/Bossfight.unity
+    guid: 9586ad246715b514297589ab806fc228
+  - enabled: 1
+    path: Assets/Scenes/Menu's/controlsmenu.unity
+    guid: 77d95edf1e7980740b59631a54d049f4
+  m_configObjects: {}
